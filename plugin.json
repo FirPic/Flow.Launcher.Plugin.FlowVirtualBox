@@ -1,0 +1,13 @@
+{
+    "ID": "1730A22B5A9A472ABEB03AFCE4839434",
+    "ActionKeyword": "vb",
+    "Name": "FlowVirtualBox",
+    "Description": "FlowVirtualBox makes it easy to manage virtual machines",
+    "Author": "FirPic",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/FirPic/Flow.Launcher.Plugin.FlowVirtualBox",
+    "UrlSourceCode":"",
+    "IcoPath": "https://www.virtualbox.org/favicon.ico",
+    "ExecuteFileName": "Flow.Launcher.Plugin.FlowVirtualBox.dll"
+}
